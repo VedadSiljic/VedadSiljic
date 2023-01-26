@@ -11,11 +11,9 @@
 
 *TBA*
 
----
 ## How To Reac Me
 
 *TBA*
----
 
 <details open>
 	<summary><h2>Technologies I Use</h2></summary>
