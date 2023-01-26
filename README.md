@@ -6,6 +6,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49DF30&center=true&width=435&lines=Software+Engineer;Android+App+Developer" alt="Typing SVG" /></a>
 </div>
 
+---
+## Some Information About Me
+
+*TBA*
+
+---
+## How To Reac Me
+
+*TBA*
+---
+
 <details open>
 	<summary><h2>Technologies I Use</h2></summary>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50px"/>
