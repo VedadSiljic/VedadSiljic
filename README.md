@@ -8,4 +8,4 @@
 
 <details open>
 	<summary><h2>Technologies I Use</h2></summary>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50px"/>
