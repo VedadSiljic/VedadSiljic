@@ -17,3 +17,17 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px"/>
 </details>
+
+
+<details open>
+	<summary><h2>My GitHub Stats</h2></summary>
+	
+<div align="center">
+![Vedad's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedadSiljic&show_icons=true&theme=merko)
+</div>
+
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedadSiljic&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+</details>
