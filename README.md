@@ -9,3 +9,11 @@
 <details open>
 	<summary><h2>Technologies I Use</h2></summary>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50px"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" width="50px"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50px"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50px"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px"/>
+</details>
