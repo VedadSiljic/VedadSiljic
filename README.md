@@ -23,11 +23,11 @@
 	<summary><h2>My GitHub Stats</h2></summary>
 	
 <div align="center">
-![Vedad's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedadSiljic&show_icons=true&theme=merko)
+<img src="https://github-readme-stats.vercel.app/api?username=VedadSiljic&show_icons=true&theme=merko" />
 </div>
 
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedadSiljic&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedadSiljic&layout=compact&theme=merko" />
 </div>
 
 </details>
